@@ -2,15 +2,17 @@
 Tools for cryptokitties
 
 
-> git clone URL
-> cd cryptokitties
-> npm insatll -g
+ > git clone URL
+
+ > cd cryptokitties
+
+ > npm install -g
 
 usage:
-kat --help
+>kat --help
 
+![alt text](https://i.imgur.com/G7UTOoL.png)
 
-https://i.imgur.com/G7UTOoL.png
 
 
 
