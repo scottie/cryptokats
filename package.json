@@ -8,6 +8,10 @@
   },
   "author": "scott lindh",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/scottie/cryptokats.git"
+  },
   "keywords": [
     "cats",
     "cryptokitties",
