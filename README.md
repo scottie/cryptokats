@@ -1,6 +1,12 @@
-# cryptokats
+# Cryptokats
 Tools for cryptokitties
 
+
+# Install
+ 
+ >npm install cryptokats
+
+ OR...
 
  > git clone URL
 
@@ -8,6 +14,8 @@ Tools for cryptokitties
 
  > npm install -g
 
+
+# Use
 usage:
 >kat --help
 
