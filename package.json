@@ -12,7 +12,10 @@
     "kats": "./index.js"
   },
   "dependencies": {
+    "chalk": "^2.3.0",
     "commander": "^2.12.2",
-    "cryptokitties-contrib": "0.0.1"
+    "cryptokitties-contrib": "0.0.1",
+    "request": "^2.83.0",
+    "requests": "^0.2.2"
   }
 }
