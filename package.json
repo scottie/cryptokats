@@ -1,6 +1,6 @@
 {
   "name": "cryptokats",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "its for crypto kitties ",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,15 @@
   },
   "author": "scott lindh",
   "license": "ISC",
+  "keywords": [
+    "cats",
+    "cryptokitties",
+    "kitties",
+    "kats",
+    "cryptokats",
+    "crypto kitties",
+    "cryptokittens"
+  ],
   "bin": {
     "kats": "./index.js"
   },
