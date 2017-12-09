@@ -70,7 +70,7 @@ function underPrice(under, fancy){
 			            console.log(chalk.green("Color: ") + val[num].kitty.color);
 			            console.log(chalk.green("Is Ready: ") + val[num].kitty.is_ready);
 			            console.log(chalk.green("Cooldown Index: ") + val[num].kitty.status.cooldown_index);
-			            console.log(chalk.green("Bun in over?: ") + val[num].kitty.is_gestating);
+			            console.log(chalk.green("Bun in oven?: ") + val[num].kitty.is_gestating);
 			            console.log(chalk.gray("__________________"));
 			            //console.log(val[num])
 			            console.log("");
