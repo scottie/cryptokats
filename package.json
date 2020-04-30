@@ -4,7 +4,9 @@
   "description": "its for crypto kitties ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "author": "scott lindh",
   "license": "ISC",
@@ -29,6 +31,8 @@
     "commander": "^2.12.2",
     "cryptokitties-contrib": "0.0.1",
     "request": "^2.83.0",
-    "requests": "^0.2.2"
-  }
+    "requests": "^0.2.2",
+    "snyk": "^1.316.1"
+  },
+  "snyk": true
 }
